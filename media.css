@@ -1,0 +1,6 @@
+@media (max-width: 600px) {
+    .bubbles span{
+        width: 15px;
+        height: 15px;
+    }
+}
